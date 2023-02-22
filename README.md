@@ -17,9 +17,9 @@ Script-Manager fot you company
 
 1) mysql -u root -p
 
-2) db/scheme.sql
+2) SOURCE/db/scheme.sql
 
-3) db/seed.sql
+3) SOURCE/db/seed.sql
 
 4) node server.js
 
